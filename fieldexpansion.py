@@ -1,3 +1,7 @@
+# Este programa obtiene la expansión en armónicos esféricos del campo eléctrico usando
+# la librería PyMieScatt para obtener los coeficientes an, bn, cn y dn. Con ello
+# se desarrolla la expresión completa en términos de funciones especiales
+
 import numpy as np
 import matplotlib.pyplot as plt
 from PyMieScatt import MieQ
