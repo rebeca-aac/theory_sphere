@@ -1,3 +1,6 @@
+# Este programa utiliza la librería PyMieScatt para obtener las eficiencias de absorción y dispersión
+# para esferas de diferentes tamaños y graficar los resultados en la misma gráfica comparativa
+
 import numpy as np
 import matplotlib.pyplot as plt
 from PyMieScatt import MieQ
